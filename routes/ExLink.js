@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET contact listing. */
+/* GET ExLink listing. */
 router.get('/', function(req, res, next) {
-  res.render('link', { about: 'Links: '});
+  res.render('ExLink', { about: 'Links: '});
 });
 
 module.exports = router;
