@@ -1,8 +1,24 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #111111;
+  color: #FFFBFE;
+  text-align: center;
 }
 
-a {
-  color: #00B7FF;
+
+button {
+ background-color:transparent;
+ -moz-border-radius:28px;
+ -webkit-border-radius:28px;
+ border-radius:28px;
+ border:1px solid #FFFBFE;
+ display:inline-block;
+ cursor:pointer;
+ color:#FFFBFE;
+ font-family:Arial;
+ font-size:28px;
+ font-weight:bold;
+ padding:16px 31px;
+ text-decoration:none;
 }
