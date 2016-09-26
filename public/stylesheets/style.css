@@ -26,3 +26,7 @@ button {
   background-color:transparent;
   border: none;
 }
+
+.row {
+  margin-bottom: 25px
+}
