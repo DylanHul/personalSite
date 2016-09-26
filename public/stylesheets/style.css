@@ -22,3 +22,7 @@ button {
  padding:16px 31px;
  text-decoration:none;
 }
+.email {
+  background-color:transparent;
+  border: none;
+}
