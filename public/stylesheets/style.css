@@ -1,21 +1,23 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: #111111;
-  color: #FFFBFE;
+  background: #222628;
+  color: #F4F4F4;
   text-align: center;
 }
 
+.container {
+  padding: 50px;
+}
 
 button {
  background-color:transparent;
  -moz-border-radius:28px;
  -webkit-border-radius:28px;
  border-radius:28px;
- border:1px solid #FFFBFE;
  display:inline-block;
  cursor:pointer;
- color:#FFFBFE;
+ color:#F4F4F4;
  font-family:Arial;
  font-size:28px;
  font-weight:bold;
